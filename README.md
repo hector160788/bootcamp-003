@@ -1,5 +1,5 @@
 # bootcamp-003
 
-this is just test
+this is just test.
 
 :)
